@@ -1,4 +1,4 @@
-**Hello, thanks for stopping by my profile!** I'm a third-year Computer Science student at the University of Alabama, currently expecting to graduate with my Master's in Spring of 2026. I'm passionate about creating extensible, reliable systems that expedite development of future features and create avenues for novel end-user experiences.
+**Hello, thanks for stopping by my profile!** I'm a third-year Computer Science student at the University of Alabama, currently expecting to graduate with my Master's in Spring of 2026. I'm passionate about crafting highly extensible systems that expedite development of future features and create avenues for novel end-user experiences.
 
 > Things I've worked on:
 - [Original playable content](https://steamcommunity.com/id/Sheargrub/myworkshopfiles/) for Rivals of Aether
