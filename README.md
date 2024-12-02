@@ -2,7 +2,7 @@
 
 > Things I've worked on:
 - [Original playable content](https://steamcommunity.com/id/Sheargrub/myworkshopfiles/) for Rivals of Aether
-- A Rust-based interpreter for the Lox programming language (link will be available shortly)
+- A [Rust-based interpreter](https://github.com/Sheargrub/crablox) for the Lox programming language
 
 > What I'm up to now:
 - Continuing to build my comfort and familiarity with **Rust**
