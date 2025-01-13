@@ -3,11 +3,11 @@
 > Things I've worked on:
 - [Original playable content](https://steamcommunity.com/id/Sheargrub/myworkshopfiles/) for Rivals of Aether
 - A [Rust-based interpreter](https://github.com/Sheargrub/crablox) for the Lox programming language
+- [Rivals Constant Flattener](https://github.com/Sheargrub/rivals-constant-flattener), an export utility to streamline Rivals of Aether projects
 
 > What I'm up to now:
 - Continuing to build my comfort and familiarity with **Rust**
 - Beginning to learn web-based development technologies via **NodeJS**
-- Working on **Rivals Constant Flattener**, a standalone export utility for Rivals of Aether workshop characters
 
 > Things I enjoy:
 - **Making music!** I currently play the bass for my university's orchestra.
