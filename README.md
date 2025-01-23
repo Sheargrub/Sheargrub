@@ -6,7 +6,7 @@
 - [Rivals Constant Flattener](https://github.com/Sheargrub/rivals-constant-flattener), an export utility to streamline Rivals of Aether projects
 
 > What I'm up to now:
-- Continuing to build my comfort and familiarity with **Rust**
+- Collaborating with [Jordan & Skala Engineers](https://www.jordanskala.com/) on a central portal for submitting building inspection forms
 - Beginning to learn web-based development technologies via **NodeJS**
 
 > Things I enjoy:
