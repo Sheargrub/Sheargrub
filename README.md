@@ -6,8 +6,9 @@
 - [Rivals Constant Flattener](https://github.com/Sheargrub/rivals-constant-flattener), an export utility to streamline Rivals of Aether projects
 
 > What I'm up to now:
+- \[Starting on 3/17!] Creating new pathways for hydrological modeling with CIROH's [NextGen Datastream](https://github.com/CIROH-UA/ngen-datastream) project
 - Collaborating with [Jordan & Skala Engineers](https://www.jordanskala.com/) on a central portal for submitting building inspection forms
-- Beginning to learn web-based development technologies via **NodeJS**
+- Growing my expertise with web-based development technologies, most notably **React**
 
 > Things I enjoy:
 - **Making music!** I currently play the bass for my university's orchestra.
