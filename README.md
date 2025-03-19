@@ -6,7 +6,7 @@
 - [Rivals Constant Flattener](https://github.com/Sheargrub/rivals-constant-flattener), an export utility to streamline Rivals of Aether projects
 
 > What I'm up to now:
-- \[Starting on 3/17!] Creating new pathways for hydrological modeling with CIROH's [NextGen Datastream](https://github.com/CIROH-UA/ngen-datastream) project
+- Laying the groundwork for hydrological modeling with CIROH's [DocuHub](https://github.com/CIROH-UA/ciroh-ua_website) and [NextGen Datastream](https://github.com/CIROH-UA/ngen-datastream) projects
 - Collaborating with [Jordan & Skala Engineers](https://www.jordanskala.com/) on a central portal for submitting building inspection forms
 - Growing my expertise with web-based development technologies, most notably **React**
 
