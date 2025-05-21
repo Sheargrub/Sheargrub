@@ -4,7 +4,9 @@ If you're attending the conference and would like to say hello, be sure to shoot
 ##
 
 ### Hello, thanks for stopping by my profile!
-I'm a third-year Computer Science student at the University of Alabama, currently expecting to graduate with both my Master's and Bachelor's in Spring of 2026. I'm passionate about crafting highly extensible systems that expedite development of future features and create avenues for novel end-user experiences.
+I'm a Computer Science graduate student at the University of Alabama, currently expecting to graduate with both my Master's and Bachelor's in Spring of 2026.
+
+I'm passionate about crafting highly extensible systems that expedite development of future features and create avenues for novel end-user experiences.
 
 ##
 
