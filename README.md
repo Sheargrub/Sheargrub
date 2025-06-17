@@ -1,8 +1,3 @@
-### I'll be attending CIROH DevCon25!
-If you're attending the conference and would like to say hello, be sure to shoot me a message or email.
-
-##
-
 ### Hello, thanks for stopping by my profile!
 I'm a Computer Science graduate student at the University of Alabama, currently expecting to graduate with both my Master's and Bachelor's in Spring of 2026.
 
