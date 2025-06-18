@@ -11,7 +11,7 @@ I'm passionate about crafting highly extensible systems that expedite developmen
 - [Rivals Constant Flattener](https://github.com/Sheargrub/rivals-constant-flattener), an export utility to streamline Rivals of Aether projects
 
 ### What I'm up to now:
-- Laying the groundwork for hydrological modeling with CIROH's [DocuHub](https://github.com/CIROH-UA/ciroh-ua_website) and [NGIAB](ngiab.ciroh.org) projects
+- Laying the groundwork for hydrological modeling with CIROH's [DocuHub](https://github.com/CIROH-UA/ciroh-ua_website) and [NGIAB](https://ngiab.ciroh.org) projects
 - Building a foundation in **CI/CD** processes and pipelining
 - Growing my expertise with web-based development technologies such as **React**
 
