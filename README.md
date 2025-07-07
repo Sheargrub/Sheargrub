@@ -5,15 +5,15 @@ I'm passionate about crafting highly extensible systems that expedite developmen
 
 ##
 
-### Things I've worked on:
-- [Original playable content](https://steamcommunity.com/id/Sheargrub/myworkshopfiles/) for Rivals of Aether
-- A [Rust-based interpreter](https://github.com/Sheargrub/crablox) for the Lox programming language
-- [Rivals Constant Flattener](https://github.com/Sheargrub/rivals-constant-flattener), an export utility to streamline Rivals of Aether projects
-
 ### What I'm up to now:
 - Laying the groundwork for hydrological modeling with CIROH's [DocuHub](https://github.com/CIROH-UA/ciroh-ua_website) and [NGIAB](https://ngiab.ciroh.org) projects
 - Building a foundation in **CI/CD** processes and pipelining
 - Growing my expertise with web-based development technologies such as **React**
+
+### Past projects:
+- [Original playable content](https://steamcommunity.com/id/Sheargrub/myworkshopfiles/) for Rivals of Aether
+- A [Rust-based interpreter](https://github.com/Sheargrub/crablox) for the Lox programming language
+- [Rivals Constant Flattener](https://github.com/Sheargrub/rivals-constant-flattener), an export utility to streamline Rivals of Aether projects
 
 ### Things I enjoy:
 - **Making music!** I currently play the bass for my university's orchestra.
