@@ -6,11 +6,12 @@ I'm passionate about crafting highly extensible systems that expedite developmen
 ##
 
 ### What I'm up to now:
-- Laying the groundwork for hydrological modeling with CIROH's [DocuHub](https://github.com/CIROH-UA/ciroh-ua_website) and [NGIAB](https://ngiab.ciroh.org) projects
+- Laying the groundwork for hydrological modeling with the [CIROH Hub](https://github.com/CIROH-UA/ciroh_hub) and [NGIAB](https://ngiab.ciroh.org) projects
 - Building a foundation in **CI/CD** processes and pipelining
 - Growing my expertise with web-based development technologies such as **React**
 
 ### Past projects:
+- [Planks for Docker](https://github.com/Sheargrub/planks_docker), a flexible plug-in framework for creating extensible Docker environments
 - [Original playable content](https://steamcommunity.com/id/Sheargrub/myworkshopfiles/) for Rivals of Aether
 - A [Rust-based interpreter](https://github.com/Sheargrub/crablox) for the Lox programming language
 - [Rivals Constant Flattener](https://github.com/Sheargrub/rivals-constant-flattener), an export utility to streamline Rivals of Aether projects
