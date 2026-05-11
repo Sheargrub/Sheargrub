@@ -20,7 +20,8 @@ I'm passionate about crafting highly extensible systems that expedite developmen
 - **Organizing community events!** As a TO, I help to plan and run side brackets at local fighting game tournaments.
 - **Bugs!** Also, birds and snakes. Really, I just generally enjoy going out and watching animals.
 
-## 
-If you're looking for a process-oriented, detail-driven designer or programmer for your next project, I'd love to chat! Please feel free to reach out to me:
+### Contact
 - University of Alabama/CIROH: ikminor1@crimson.ua.edu
 - Other inquiries: sheargrub@gmail.com
+
+If you're looking for a process-oriented, detail-driven designer or programmer for your next project, I'd love to chat! Please feel free to reach out.
